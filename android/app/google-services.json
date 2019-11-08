@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413855723081",
+    "firebase_url": "https://tamchuyenapp.firebaseio.com",
+    "project_id": "tamchuyenapp",
+    "storage_bucket": "tamchuyenapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413855723081:android:00f9992e6c2dd87718d998",
+        "android_client_info": {
+          "package_name": "io.flutter.app.FlutterApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413855723081-l4vcctv2e4fvfp58ikis1mutvi7009jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCILnFDWluUHyaWVHAN9h_cLJZVCb18U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413855723081-l4vcctv2e4fvfp58ikis1mutvi7009jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
